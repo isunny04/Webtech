@@ -1,0 +1,9 @@
+#s{
+color: black;
+ text-decoration:none;
+}
+body{
+    
+background-image: linear-gradient(red,aqua,orange);
+height: 159vh;
+}

@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(Blue,red,aqua);
+}
+#green{
+    color: red;
+}
+.a{
+    color: orange;
+}
+.one{
+    color: greenyellow;
+}
+ul{
+    list-style-type:square;
+}
